@@ -1,0 +1,10 @@
+# Ignore the virtual environment folder
+/env/
+
+# Other standard ignore patterns
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
